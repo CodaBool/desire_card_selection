@@ -1,0 +1,11 @@
+{
+  "name": "desire-selection",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "type": "module",
+  "devDependencies": {
+    "wrangler": "^4.135.0"
+  }
+}
